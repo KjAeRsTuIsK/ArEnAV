@@ -26,9 +26,11 @@ Once the EULA has been signed and emailed, access the dataset from here:
 1. `git lfs install && git clone https://huggingface.co/datasets/kartik060702/ArEnAV-Full`
 ---
 
-## Overview
-ArEnAV is the **first multimodal deepfake benchmark** that expressly targets Arabic ↔ English **code-switching**.  
-It contains **387 k videos (~765 h)** generated with a three-stage pipeline that alters transcripts, clones speech, and diffusion-syncs lips, yielding highly realistic, hard-to-detect fakes.
+
+## Abstract
+Deepfake generation methods are evolving fast, making fake media harder to detect and raising serious societal concerns. Most deepfake detection and dataset creation research focuses on monolingual content, often overlooking the challenges of multilingual and code-switched speech, where multiple languages are mixed within the same discourse. Code-switching, especially between Arabic and English, is common in the Arab world and is widely used in digital communication. 
+This linguistic mixing poses extra challenges for deepfake detection, as it can confuse models trained mostly on monolingual data. To address this, we introduce **ArEnAV**, the first large-scale Arabic-English audio-visual deepfake dataset featuring intra-utterance code-switching, dialectal variation, and monolingual Arabic content. **It contains 387k videos and over 765 hours of real and fake videos**. Our dataset is generated using a novel pipeline integrating four Text-To-Speech and two lip-sync models, enabling comprehensive analysis of multilingual multimodal deepfake detection. We benchmark our dataset against existing monolingual and multilingual datasets, state-of-the-art deepfake detection models, and a human evaluation, highlighting its potential to advance deepfake research.
+
 
 ---
 
