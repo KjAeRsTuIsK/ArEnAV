@@ -17,12 +17,16 @@
 
 
 ## Dataset Link & Usage Guidelines
-To use our dataset, fill the 
+The dataset is under the [EULA](eula.pdf). You need to agree and sign the EULA to access the dataset.
+
+The baseline Xception code [/examples/xception](/examples/xception) is under MIT Licence. The BA-TFD/BA-TFD+ code [/examples/batfd](/examples/batfd) is from [ControlNet/LAV-DF](https://github.com/ControlNet/LAV-DF) under CC BY-NC 4.0 Licence.
+
+The other parts of this project is under the CC BY-NC 4.0 license. See [LICENSE](LICENSE) for details.
+
+Once the EULA has been filled, access the dataset:
 **Download** → [Hugging Face – ArEnAV-Full](https://huggingface.co/datasets/kartik060702/ArEnAV-Full)
 
 1. `git lfs install && git clone https://huggingface.co/datasets/kartik060702/ArEnAV-Full`
-2. Each clip ships with `video.mp4`, `video.json`, which contains the metadata for the corresponding video.
-
 ---
 
 ## Overview
@@ -126,6 +130,16 @@ It contains **387 k videos (~765 h)** generated with a three-stage pipeline that
 | AR @ 1 | 1.38 |
 
 ---
+
+
+## License
+
+The dataset is under the [EULA](eula.pdf). You need to agree and sign the EULA to access the dataset.
+
+The baseline Xception code [/examples/xception](/examples/xception) is under MIT Licence. The BA-TFD/BA-TFD+ code [/examples/batfd](/examples/batfd) is from [ControlNet/LAV-DF](https://github.com/ControlNet/LAV-DF) under CC BY-NC 4.0 Licence.
+
+The other parts of this project is under the CC BY-NC 4.0 license. See [LICENSE](LICENSE) for details.
+
 
 ## Conclusion
 ArEnAV reveals that state-of-the-art detectors **struggle badly** with cross-lingual, code-switched deepfakes (≥ 35 pp performance drop vs. monolingual benchmarks).  
