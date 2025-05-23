@@ -1,4 +1,4 @@
-# Tell me Habibi, is it Real or Fake? <img src="images/77bd908c-afaa-4fcd-8070-48fb72d07f99.png" height="40">
+# Tell me Habibi, is it Real or Fake? <img src="images/logo.png" height="40">
 
 # 
 <p align="center">
