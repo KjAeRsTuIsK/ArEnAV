@@ -180,3 +180,16 @@ We hope this dataset drives research toward **robust, multilingual, audio-visual
 
 ## Acknowledgement
 We are grateful to all the amazing open-sourced TTS and Lip-sync models that made this project possible, including [COQUI-TTS](https://coqui-tts.readthedocs.io/en/latest/index.html), [Diff2Lip](https://github.com/soumik-kanad/diff2lip) and [LatentSync](https://github.com/bytedance/LatentSync). 
+
+## Citation
+```bibtex
+@misc{kuckreja2025tellhabibirealfake,
+      title={Tell me Habibi, is it Real or Fake?}, 
+      author={Kartik Kuckreja and Parul Gupta and Injy Hamed and Thamar Solorio and Muhammad Haris Khan and Abhinav Dhall},
+      year={2025},
+      eprint={2505.22581},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2505.22581}, 
+}
+```
