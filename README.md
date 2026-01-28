@@ -1,4 +1,4 @@
-# Tell me Habibi, is it Real or Fake? <img src="images/logo.png" height="40">
+# Tell me Habibi, is it Real or Fake? [ICLR-2026] <img src="images/logo.png" height="40">
 
 # 
 <p align="center">
@@ -12,6 +12,7 @@
 ---
 
 ## 📢 Latest Updates
+- ArEnAV has been accepted to ICLR-2026!! 🔥🔥🔥
 - [ArEnAV-Full](https://huggingface.co/datasets/kartik060702/ArEnAV-Full) and [ArEnAV-Preview](https://huggingface.co/datasets/parulgupta/ArEnAV_preview/viewer/default/test?views%5B%5D=test) is open-sourced 🔥🔥🔥
 ---
 
